@@ -1,0 +1,41 @@
+name: Run Sherlock
+
+on:
+  workflow_dispatch:
+    inputs:
+      username:
+        description: 'Username to search'
+        required: false
+        default: 'viperjon'
+
+jobs:
+  run-sherlock:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install .
+
+      - name: Create results dir
+        run: mkdir -p results
+
+      - name: Run Sherlock
+        run: |
+          USERNAME="${{ github.event.inputs.username }}"
+          echo "Running sherlock for ${USERNAME}"
+          sherlock --print-found --output "results/${USERNAME}.txt" "${USERNAME}"
+
+      - name: Upload results artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: sherlock-results
+          path: results/
