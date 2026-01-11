@@ -1,17 +1,18 @@
 APClips
 Archive.org
-Carbonmade
 Code Snippet Wiki
 DeviantArt
+Eintracht Frankfurt Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
+Itch.io
 LushStories
 Minecraft
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -27,4 +28,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
