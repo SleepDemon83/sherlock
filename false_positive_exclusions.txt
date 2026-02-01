@@ -7,7 +7,6 @@ GeeksforGeeks
 Giphy
 Gravatar
 Hubski
-Itch.io
 LushStories
 PocketStars
 Realmeye
@@ -21,8 +20,6 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
-xHamster
