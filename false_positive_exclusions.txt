@@ -6,6 +6,7 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hubski
 LushStories
 Minecraft
@@ -26,4 +27,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
