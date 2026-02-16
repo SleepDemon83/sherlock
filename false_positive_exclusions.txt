@@ -1,15 +1,13 @@
 APClips
 Archive.org
-BitBucket
 Code Snippet Wiki
-Cracked Forum
 DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hubski
+Linktree
 LushStories
 Minecraft
 PocketStars
@@ -24,7 +22,6 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-YandexMusic
 mercadolivre
 opennet
 phpRU
