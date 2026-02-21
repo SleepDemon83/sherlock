@@ -8,6 +8,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Linktree
 LushStories
 PocketStars
 Realmeye
@@ -18,9 +19,11 @@ SlideShare
 Smule
 Splice
 Spotify
+Tiendanube
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
