@@ -1,25 +1,27 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-Linktree
 LushStories
+Minecraft
+Patched
 PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
-Tiendanube
+Trovo
 TryHackMe
 Weblate
 YandexMusic
