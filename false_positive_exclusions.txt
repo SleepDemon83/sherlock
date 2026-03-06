@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Carbonmade
 Codolio
 DeviantArt
 GNOME VCS
@@ -7,11 +8,12 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
+Rarible
 Realmeye
 Reddit
 RocketTube
@@ -20,6 +22,8 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
+Trovo
 TryHackMe
 Weblate
 YandexMusic
