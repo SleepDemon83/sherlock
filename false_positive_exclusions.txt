@@ -1,5 +1,6 @@
 APClips
 Archive.org
+CGTrader
 Codolio
 DeviantArt
 GNOME VCS
@@ -16,6 +17,7 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -27,6 +29,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
