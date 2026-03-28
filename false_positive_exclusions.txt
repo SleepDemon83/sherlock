@@ -1,13 +1,12 @@
 APClips
 Archive.org
 Codolio
-Cults3D
 DeviantArt
 GeeksforGeeks
 Giphy
+GitBook
 Hashnode
 Hubski
-LessWrong
 LushStories
 Patched
 PocketStars
