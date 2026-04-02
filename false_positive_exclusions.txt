@@ -2,6 +2,7 @@
 APClips
 Archive.org
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -9,6 +10,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Pornhub
@@ -19,8 +21,10 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
