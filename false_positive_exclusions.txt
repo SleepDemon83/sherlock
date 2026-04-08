@@ -2,8 +2,8 @@
 APClips
 Archive.org
 Bandcamp
+Carbonmade
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -24,13 +24,12 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
