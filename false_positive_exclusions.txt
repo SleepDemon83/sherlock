@@ -2,12 +2,10 @@
 APClips
 Airliners
 Apple Discussions
-Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -15,6 +13,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
+LessWrong
 LushStories
 Motherless
 Patched
@@ -26,7 +26,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-Snapchat
 Splice
 Spotify
 Trovo
@@ -34,6 +33,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
@@ -41,5 +41,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
 xHamster
