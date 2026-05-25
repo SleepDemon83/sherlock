@@ -11,6 +11,7 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
+Heavy-R
 Hubski
 LessWrong
 LushStories
@@ -21,6 +22,7 @@ Reddit
 Replit.com
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
