@@ -1,5 +1,7 @@
 7Cups
+APClips
 Airliners
+Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
@@ -12,9 +14,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
 LushStories
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
