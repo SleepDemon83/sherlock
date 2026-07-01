@@ -1,13 +1,12 @@
 7Cups
 APClips
 Airliners
-Anilist
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
+BreachSta.rs Forum
 Codolio
 Cults3D
 DeviantArt
@@ -18,7 +17,6 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
 Minecraft
