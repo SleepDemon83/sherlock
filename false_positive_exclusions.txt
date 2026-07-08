@@ -16,9 +16,11 @@ Houzz
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -34,7 +36,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
