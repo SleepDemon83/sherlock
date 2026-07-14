@@ -18,9 +18,7 @@ Houzz
 Hubski
 LessWrong
 LushStories
-Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -29,7 +27,6 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
