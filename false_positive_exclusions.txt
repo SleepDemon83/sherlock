@@ -5,7 +5,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -17,6 +19,7 @@ LessWrong
 LinkedIn
 LushStories
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -28,10 +31,8 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
