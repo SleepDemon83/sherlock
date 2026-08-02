@@ -6,7 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -23,7 +23,6 @@ LessWrong
 LinkedIn
 LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -32,14 +31,13 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -50,3 +48,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
