@@ -6,19 +6,23 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
+Flipboard
 GeeksforGeeks
 Giphy
-Gravatar
+HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 LushStories
 Minecraft
@@ -33,15 +37,14 @@ Replit.com
 ReverbNation
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -51,4 +54,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
