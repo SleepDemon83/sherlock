@@ -8,6 +8,7 @@ ArtStation
 Bandcamp
 Chatujme.cz
 Codolio
+Cracked Forum
 Cults3D
 DeviantArt
 Discord.bio
@@ -36,7 +37,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -49,3 +49,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
