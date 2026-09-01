@@ -6,6 +6,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+BoardGameGeek
 Championat
 Chatujme.cz
 ChaturBate
@@ -17,13 +19,12 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Houzz
 Hubski
 Instapaper
 LinkedIn
-Minecraft
+LushStories
 Odysee
 PCGamer
 Pornhub
