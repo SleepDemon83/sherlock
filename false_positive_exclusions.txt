@@ -3,7 +3,6 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
@@ -13,11 +12,9 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
-GitBook
 Hashnode
 Houzz
 Hubski
@@ -26,6 +23,7 @@ LinkedIn
 LushStories
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -54,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
