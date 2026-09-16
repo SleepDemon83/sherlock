@@ -6,7 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -15,14 +15,15 @@ Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LinkedIn
+Lobsters
 LushStories
 Minecraft
 ObservableHQ
@@ -55,3 +56,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
