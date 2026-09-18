@@ -1,11 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -17,11 +17,12 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
+Hive Blog
 Houzz
 Hubski
 Instapaper
 LinkedIn
-LiveJournal
+LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -53,3 +54,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
