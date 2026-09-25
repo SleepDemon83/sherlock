@@ -1,21 +1,20 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Houzz
 Hubski
@@ -23,17 +22,15 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
-Outgress
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
@@ -41,7 +38,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -55,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
