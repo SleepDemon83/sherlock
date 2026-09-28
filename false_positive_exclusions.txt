@@ -11,7 +11,6 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -24,7 +23,6 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -33,6 +31,7 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 SlideShare
 Splice
@@ -54,4 +53,5 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+threads
 xHamster
