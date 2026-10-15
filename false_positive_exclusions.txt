@@ -5,10 +5,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BoardGameGeek
+CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -17,17 +16,18 @@ GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
+HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
 LinkedIn
 Linktree
+LushStories
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,6 +37,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -52,4 +53,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-threads
