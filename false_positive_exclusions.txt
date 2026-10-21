@@ -5,10 +5,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blipfoto
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -23,11 +23,10 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,7 +36,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -45,6 +43,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 interpals
 mercadolivre
