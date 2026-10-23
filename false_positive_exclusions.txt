@@ -26,8 +26,6 @@ LinkedIn
 Linktree
 LushStories
 Minecraft
-NationStates Nation
-NationStates Region
 ObservableHQ
 Odysee
 PCGamer
@@ -40,6 +38,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -54,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
