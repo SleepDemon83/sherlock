@@ -22,6 +22,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -37,6 +38,7 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
@@ -46,6 +48,6 @@ hunting
 interpals
 mercadolivre
 opennet
+phpRU
 social.tchncs.de
 svidbook
-xHamster
