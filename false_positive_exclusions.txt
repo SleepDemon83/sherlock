@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -23,7 +22,6 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -46,8 +44,8 @@ fixya
 hunting
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
