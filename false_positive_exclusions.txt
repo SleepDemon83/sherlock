@@ -3,10 +3,11 @@ Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
+BabyRu
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -25,7 +26,6 @@ LushStories
 ObservableHQ
 Odysee
 PCGamer
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -34,8 +34,9 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
+TikTok
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
@@ -44,7 +45,6 @@ fixya
 hunting
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
