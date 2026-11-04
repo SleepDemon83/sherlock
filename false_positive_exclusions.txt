@@ -1,10 +1,9 @@
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
-CTAN
 Championat
 Chatujme.cz
 Codolio
@@ -21,7 +20,6 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -38,12 +36,14 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Venmo
 Vero
 YandexMusic
 authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
