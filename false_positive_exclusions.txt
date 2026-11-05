@@ -4,6 +4,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -20,15 +21,18 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LushStories
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -36,7 +40,6 @@ Spotify
 Trakt
 TryHackMe
 Velomania
-Venmo
 Vero
 YandexMusic
 authorSTREAM
@@ -49,4 +52,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
