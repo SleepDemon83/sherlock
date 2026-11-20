@@ -14,7 +14,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LibraryThing
 LinkedIn
 Linktree
 LushStories
@@ -44,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
